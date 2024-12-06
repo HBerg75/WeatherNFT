@@ -12,3 +12,38 @@ docs/
 
 # Dotenv file
 .env
+
+# Node.js dependencies (si npm est utilisé pour installer des packages)
+node_modules/
+
+# MacOS system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Foundry related temporary files
+foundry.toml.lock
+
+# VS Code settings (facultatif, si tu utilises VS Code)
+.vscode/
+
+# System-wide temporary files
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.temp
+
+# OS-generated files
+Thumbs.db
+desktop.ini
+
+# IDE-specific files (facultatif, selon ton environnement)
+.idea/
+*.iml
+
+# Miscellaneous
+*.env.*
