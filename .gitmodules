@@ -1,0 +1,3 @@
+[submodule "WeatherNFT/lib/forge-std"]
+	path = WeatherNFT/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
